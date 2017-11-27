@@ -17,7 +17,7 @@ SET time_zone = "+02:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `codexworld`
+-- Database: `angular-crud`
 --
 
 -- --------------------------------------------------------
